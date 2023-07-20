@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64b22ff2a09e540a837eeae5"
+  },
+  "name": "Website Development",
+  "description": "Order Website fast that's suites to your needs.",
+  "price": "99",
+  "category": "website",
+  "picture": "/icons/Responsive and Interactive Websites.gif"
+},
+{
+  "_id": {
+    "$oid": "64b23065a09e540a837eeae7"
+  },
+  "name": "Software Application",
+  "description": "Order Software Applications that's suites to your needs.",
+  "price": "159",
+  "category": "application",
+  "picture": "/icons/match.gif"
+},
+{
+  "_id": {
+    "$oid": "64b22f74a09e540a837eeae1"
+  },
+  "name": "Online Services",
+  "description": "Order Services for fast assistance that you need.",
+  "price": "139",
+  "category": "service",
+  "picture": "/icons/data analysis.gif"
+}]
